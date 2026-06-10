@@ -127,7 +127,7 @@ Dataset: **Olist Brazilian E-commerce Dataset**
 ---
 
 ## 📸 Dashboard Snapshot
-![Dashboard](Ecommerce_Seller_Analysis_Dashboard.png)
+![Dashboard](ECommerce_Seller_Analysis_Dashboard.png)
 
 ---
 
