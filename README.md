@@ -163,6 +163,5 @@ This project transformed raw e-commerce data into meaningful business insights b
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-LinkedIn: *Add your LinkedIn profile link here*
+LinkedIn: https://www.linkedin.com/in/prakruthiofficial
 
-GitHub: *Add your GitHub profile link here*
