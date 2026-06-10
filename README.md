@@ -128,10 +128,8 @@ Dataset: **Olist Brazilian E-commerce Dataset**
 
 ## 📸 Dashboard Snapshot
 
-> Add your dashboard screenshot here
-
 ```text
-images/Ecommerce_Seller_Analysis_Dashboard.png
+Ecommerce_Seller_Analysis_Dashboard.png
 ```
 
 ---
